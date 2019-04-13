@@ -6,4 +6,6 @@ class Appointment
     @@all
   end
 
+  def initialize
+
 end
